@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FileClass
+comment1.params=fileName
+comment1.target=void\ readFromFile(java.lang.String)
+comment2.params=
+comment2.target=int\ getCount()
+comment3.params=
+comment3.target=Vehicle[]\ getVehiclesArr()
+comment4.params=
+comment4.target=void\ writeToFile()
+numComments=5

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=testVehicle
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arrVehicles\ count
+comment2.target=void\ displayList(Vehicle[],\ int)
+numComments=3
